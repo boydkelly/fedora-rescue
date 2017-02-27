@@ -9,7 +9,12 @@
 
 -firefox
 chromium
-
+-pragha
+-parole
+-claws
+-geany
+-pidgin
+-transmission
 
 abattis-cantarell-fonts
 xterm
@@ -25,17 +30,18 @@ ImageMagick
 
 #tools
 testdisk
+qphotorec
 ntfsprogs
 ntfs-3g
 gparted
-photorec
 rsync
 nfs-utils
 samba-client
 samba
-system-config-samba
+#system-config-samba
 fsarchiver
-nmap-netcat
+#find out why this is not available
+#nmap-netcat
 
 p7zip
 arj
@@ -43,7 +49,6 @@ zip
 arj
 lftp
 lftp-scripts
-partimage
 wipe
 nwipe
 mediawriter
@@ -68,9 +73,6 @@ tmux-powerline
 vim-powerline
 powerline-docs
 
-
-firefox
-chromium
 #system-config-printer
 #system-config-date
 
